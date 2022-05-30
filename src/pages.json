@@ -1,0 +1,48 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path":"pages/index/highGL",
+			"style":{
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path":"pages/index/highGI",
+			"style":{
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path":"pages/index/highHeat",
+			"style":{
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path":"pages/index/foodDetail",
+			"style":{
+				"navigationStyle": "custom",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path":"pages/index/charts",
+			"style":{
+				"navigationBarTitleText": "图标"
+			}
+		}
+	],
+	"globalStyle": {
+		
+	}
+}
